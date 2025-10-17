@@ -56,8 +56,8 @@ InfantAudioClassifier/
 ## Usage
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
-cd InfantAudioClassifier
+git clone https://github.com/Zahra-Ghaffary/Infant-Audio-Classifier.git
+cd Infant-Audio-Classifier
 ````
 
 2. Install dependencies:
