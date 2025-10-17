@@ -38,7 +38,7 @@ Only the following three categories were used:
 
 ## Folder Structure
 ```
-InfantAudioClassifier/
+Infant-Audio-Classifier/
 ├── data/
 │   ├── laugh
 │   ├── noise
